@@ -1,0 +1,7 @@
+C:\Users\Настя Утякаева\Documents\Visual Studio 2017\Server_lab1\Server_lab1\bin\Debug\Server_lab1.exe.config
+C:\Users\Настя Утякаева\Documents\Visual Studio 2017\Server_lab1\Server_lab1\bin\Debug\Server_lab1.exe
+C:\Users\Настя Утякаева\Documents\Visual Studio 2017\Server_lab1\Server_lab1\bin\Debug\Server_lab1.pdb
+C:\Users\Настя Утякаева\Documents\Visual Studio 2017\Server_lab1\Server_lab1\obj\Debug\Server_lab1.csprojAssemblyReference.cache
+C:\Users\Настя Утякаева\Documents\Visual Studio 2017\Server_lab1\Server_lab1\obj\Debug\Server_lab1.csproj.CoreCompileInputs.cache
+C:\Users\Настя Утякаева\Documents\Visual Studio 2017\Server_lab1\Server_lab1\obj\Debug\Server_lab1.exe
+C:\Users\Настя Утякаева\Documents\Visual Studio 2017\Server_lab1\Server_lab1\obj\Debug\Server_lab1.pdb
